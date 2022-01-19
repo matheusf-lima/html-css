@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+    font-family: Arial;
+}
+a{
+    color: white;
+}
